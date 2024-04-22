@@ -52,4 +52,3 @@ btn.forEach(button => {
 function exibirResultado(nome, score) {
  resultado.innerText = `A pontuação de ${nome} é: ${score}`;
 }
-
